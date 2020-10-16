@@ -1,0 +1,68 @@
+body {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+.col-12 {
+  width: 95%;
+  margin: 10px;
+  height: 95px;
+  background: yellow;
+  background-image: url(https://i.pinimg.com/236x/40/15/66/401566a39d1c39f1c05470715e9c8e89--shrek-how-to-draw.jpg);
+  
+}
+.left-col{ 
+  float: left;
+  width: 40%;
+  height: 800px;
+  margin: 10px;
+  background-image: url(https://w7.pngwing.com/pngs/549/388/png-transparent-shrek-illustration-shrek-the-third-donkey-princess-fiona-gingerbread-man-t-shirt-shrek-heroes-fictional-character-film.png)!important;
+  background-repeat: no-repeat;  
+}
+
+.col-1 {
+  float: left;
+  width: 40%;
+  height: 800px;
+  margin: 10px;
+  background: #ADFF2F;
+}
+
+.col-5{
+  background: #ccc;
+  float: left;
+  width: 10%;
+  margin: 10px;
+  height: 800px;
+  background-image: url(https://c7.hotpng.com/preview/759/98/400/5bbc57a455411.jpg);
+  background-repeat: no-repeat;
+}
+
+.add1{
+  font-size: 18px;
+  padding: 10px 30px;
+  background: #ADFF2F;
+  margin: 3px;
+  position: absolute;
+  left: 35%;
+}
+
+.add2{
+  font-size: 18px;
+  padding: 10px 30px;
+  background: #ADFF2F;
+  margin: 3px;
+  position: absolute;
+  left: 35%;
+}
+
+.search1{
+  position: absolute;
+  top: 60px;
+  left: 30%;
+}
+
+.search2{
+  position: absolute;
+  top: 60px;
+  left: 30%;
+}
